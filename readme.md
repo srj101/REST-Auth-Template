@@ -45,14 +45,6 @@ npm install
 npm start
 ```
 
-## Build & Deploy
-
-```
-# Create frontend prod build
-cd frontend
-npm run build
-```
-
 ## License
 
 The MIT License
